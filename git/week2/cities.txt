@@ -1,4 +1,5 @@
 malmo
 copenhagen
 odense
+aarhus
 aalborg
